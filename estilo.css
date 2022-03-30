@@ -1,0 +1,16 @@
+*{margin: 0; padding: 0;}
+
+body{ margin: auto auto;}
+
+a{text-decoration: none; color: white;}
+
+h1{text-align: center;}
+
+form{
+    width: 500px; margin: 0 auto; }
+
+span{ text-align: center;}
+
+tr{ text-align: center;}
+
+
